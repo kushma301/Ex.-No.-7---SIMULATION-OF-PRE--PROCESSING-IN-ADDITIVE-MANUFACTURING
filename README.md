@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 04.12.2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,23 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+
+
+<img width="762" alt="6 1 CAD FILE" src="https://github.com/user-attachments/assets/48f440b3-1501-4f53-955f-5e220829e0c2">
+<img width="778" alt="6 1 conversion of STL" src="https://github.com/user-attachments/assets/ca8337e1-247b-4448-b9f8-1557ca5352e5">
+<img width="799" alt="6 1 orientation" src="https://github.com/user-attachments/assets/814751aa-6dca-4ba6-b66b-f63c3c4563af">
+<img width="767" alt="6 1 supporting structure" src="https://github.com/user-attachments/assets/56fd4879-f067-4c71-a4fd-8767a13fcb46">
+<img width="773" alt="6 1 slicing" src="https://github.com/user-attachments/assets/99754aa3-b676-42ab-aa8e-eadd64f81d96">
+<img width="804" alt="6 1 path planning" src="https://github.com/user-attachments/assets/d023bd89-19dd-442c-9049-3d5980cb97e8">
+
 
 ## Output:
 
-### Name:
-### Register Number:
+![exp6 1 output EMPD](https://github.com/user-attachments/assets/3625037d-2a3d-4381-bee1-f66de47d832a)
+
+
+### Name: Kushma. S
+### Register Number: 24013666
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
